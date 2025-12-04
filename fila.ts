@@ -17,9 +17,6 @@ const listaNomes: Queue<string> = new Queue<string>()
 let opcao: number;
 let nomeCliente: string;
 
-// andre, filipe, fonseca, borba, Alysson, thays, fatinha, djaci, marcia
-// 
-
 do {
     console.log(`=== Menu de Opções ===  
 1 - Adicionar um novo Cliente na fila 
